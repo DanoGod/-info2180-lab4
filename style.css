@@ -1,0 +1,46 @@
+
+body{
+    margin: 0px;
+
+}
+
+.head{
+    text-align: center;
+    background-color: rgb(71, 113, 168);
+    padding: 10px;
+    margin: 0;
+    font-family: arial;
+    color: white;
+}
+
+.btn{
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(235, 75, 75);
+    padding: 10px;
+    /*display: inline;*/
+    margin: 0px;
+    font-weight: bold;
+}
+
+#MovieCharacter{
+    display: inline;
+    border-radius: 3px;
+    border: solid;
+    border-width: thin;
+    padding: 9px;
+    width: 500px;
+    margin: 0px;
+}
+
+.bod{
+    padding-left: 15%; 
+    font-family: arial;
+    padding-right: 15%;
+}
+
+hr{
+    border: none;
+    background-color: black;
+    padding: 0.5px;
+}  
